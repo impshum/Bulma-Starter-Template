@@ -1,2 +1,2 @@
-# Bulma Starter Template
+## Bulma Starter Template
  
