@@ -1,0 +1,20 @@
+section:last-of-type {
+  padding-bottom: 6rem;
+}
+
+.are-justified a {
+  flex-grow: 1;
+  flex-basis: 0;
+  display: -webkit-box;
+  text-align: center;
+}
+
+
+.footer {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.footer a {
+  color: inherit;
+}
